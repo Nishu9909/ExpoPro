@@ -1,0 +1,5 @@
+{
+  "name": "Myexpense",
+  "description": "A Super AMOLED, Glassmorphism-styled PWA expense manager with Local Storage sync (Firebase removed temporarily) and AI-driven bill predictions.",
+  "requestFramePermissions": []
+}
